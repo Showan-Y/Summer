@@ -1,6 +1,7 @@
 <script>
   function test(){
     
-      console.log('hello world');
+      // console.log('hello world');
+      console.log('i am scrat');      
   }
 <script>
